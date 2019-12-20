@@ -34,6 +34,8 @@ gem 'sass-rails', '>= 3.2'
 gem 'jquery-rails'
 gem 'devise'
 gem 'bootstrap_form'
+gem 'faker'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
