@@ -14,7 +14,7 @@ def seed_users
       email: "test#{user_id}@test.com",
       password: '123456',
       password_confirmation: '123456'
-    )	
+    )
     user_id = user_id + 1
   end
 end
