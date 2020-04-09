@@ -35,7 +35,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'bootstrap_form'
 gem 'faker'
-
+gem 'will_paginate', '~> 3.1.0'
 
 
 
